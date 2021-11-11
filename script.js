@@ -1,0 +1,1 @@
+document.querySelector("p").innerHTML = "Megváltoztattam a szöveget";
